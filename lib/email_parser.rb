@@ -15,6 +15,4 @@ attr_accessor :parse
     @parse.split(", ", " ")
   end
 
-  end
-
 end
