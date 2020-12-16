@@ -13,7 +13,7 @@ attr_accessor :parse
 
   def parse
     @parse.split(", ", " ")
-  end   
+  end
 
   end
 
