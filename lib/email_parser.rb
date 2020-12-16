@@ -13,5 +13,4 @@ attr_accessor :parse
 
   end
 
-
 end
