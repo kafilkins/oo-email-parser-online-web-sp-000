@@ -7,7 +7,7 @@ class EmailAddressParser
 
 attr_accessor :emails
 
-  def parse
+  def intialize parse
 
   end
 
