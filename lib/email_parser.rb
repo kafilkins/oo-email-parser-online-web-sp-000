@@ -12,7 +12,7 @@ attr_accessor :parse
   end
 
   def parse
-    @parse.split(/,?\s/).unique?
+    @parse.split(/,?\s/)
   end
 
 end
